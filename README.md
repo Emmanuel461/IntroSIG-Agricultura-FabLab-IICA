@@ -26,7 +26,8 @@
 <li>Zoom: 
  <ul>
    <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en
-   <li>Computadora: https://zoom.us/signup </li></li>
+   <li>Computadora: https://zoom.us/signup </li></ul>
+  <ul>
 <li>My Maps: https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en</li>
 <li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
 </ul>
