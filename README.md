@@ -8,3 +8,24 @@
 <p>Estará compuesto por una primera sesión teórica, que profundizará en la conceptualización de los SIG, conocer sus componentes, tipos de datos e información.</p>
 <p>Posteriormente, la segunda sesión comprenderá una pequeña sección teórica en la que se hablará de las aplicaciones de los Sistemas de Información geográfica en la agricultura, profundizando en el uso de tecnologías satelitales y drones, en esta misma sesión se empezarán a explorar las plataformas My Maps de Google y Mobile Topographer, buscando que se logre entender su funcionamiento y capacidades.</p>
 <p>Y, por último, en la tercera sesión se hará un proceso guiado de creación y exportación de un mapa enfocado en la agricultura.</p>
+
+
+<h3>¿Qué necesita?</h3>
+ <ul>
+<li>Una computadora con acceso a Internet y Navegador web Google Chrome.</li>
+<li>Instalado en la computadora un lector de archivos en formato .pdf.</li>
+<li>Instalado en la computadora la plataforma Zoom.</li>
+<li>Una cuenta de Google (Preferiblemente su cuenta personal)</li>
+<li>Un smartphone o Tablet con sistema operativo Android.</li>
+<li>Red Wi-Fi de al menos 3 Megabytes de descarga.</li>
+<li>Tener instalado en el celular las aplicaciones MyMaps de Google, y la versión gratuita de Mobile Topographer</li>
+</ul>
+
+<h3>Acá están los vínculos para descargar las aplicaciones:</h3>
+<ul>
+<li>Zoom: https://zoom.us/signup
+  Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en
+  Computadora: </li>
+<li>My Maps: https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en</li>
+<li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
+</ul>
