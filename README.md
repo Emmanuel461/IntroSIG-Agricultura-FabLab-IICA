@@ -23,9 +23,10 @@
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
 <ul>
-<li>Zoom: https://zoom.us/signup
-  Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en
-  Computadora: </li>
+<li>Zoom: 
+ <ul>
+   <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en
+   <li>Computadora: https://zoom.us/signup </li></li>
 <li>My Maps: https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en</li>
 <li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
 </ul>
