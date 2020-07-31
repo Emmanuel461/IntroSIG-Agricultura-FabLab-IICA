@@ -1,4 +1,4 @@
-#<h1>Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura<h1>
+#Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
  
 <h2>Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
