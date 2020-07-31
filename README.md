@@ -1,5 +1,4 @@
-# Intro-SIG-Agricultura
-Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
+# Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
 
 <h1>¿En qué va a consistir el taller?</h1>
 
