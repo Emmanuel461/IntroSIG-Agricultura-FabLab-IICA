@@ -18,9 +18,6 @@
 </ul>
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
-
-<a href="url">link text</a>
-
  <ul>
       <li>Zoom:</li>
       <ul>
