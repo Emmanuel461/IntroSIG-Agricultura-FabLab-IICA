@@ -1,8 +1,8 @@
 # Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
 
-<h1>Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h1>
+<h2>Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
-<h2>¿En qué va a consistir el taller?</h2>
+<h3>¿En qué va a consistir el taller?</h3>
 
 <p>El taller busca que los participantes conozcan qué son y para qué sirven los Sistemas de Información Geográfica, y qué aplicaciones tienen los SIG en la agricultura. Así como también, que aprendan a utilizar herramientas básicas, gratuitas y en línea para colectar información georreferenciada y visualizarla en plataformas de SIG.</p> 
 <p>Estará compuesto por una primera sesión teórica, que profundizará en la conceptualización de los SIG, conocer sus componentes, tipos de datos e información.</p>
