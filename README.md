@@ -28,6 +28,21 @@
    <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en
    <li>Computadora: https://zoom.us/signup </li></ul>
   <ul>
-<li>My Maps: https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en</li>
+   <li>My Maps: https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en</li>
 <li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
 </ul>
+ 
+ <ul>
+  <li>Zoom:</li>
+  <ol>
+     <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
+     <li>Computadora: https://zoom.us/signup </li></ul></li>
+  </ol>
+  <li>My Maps: http://mymaps.google.com/ (Link de acceso, no hay que descargar nada.</li>
+  <ol>
+    <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
+    <li>Computadora: </li>
+  </ol>
+  <li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
+  </ul>
+   
