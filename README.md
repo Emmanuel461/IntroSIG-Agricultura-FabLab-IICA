@@ -26,8 +26,8 @@
  <ul>
   <li>Zoom:</li>
   <ul>
-     <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
-     <li>Computadora: https://zoom.us/signup </li></ul></li>
+    <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
+    <li>Computadora: https://zoom.us/signup </li></ul></li>
   </ul>
   <li>My Maps: http://mymaps.google.com/ (Link de acceso, no hay que descargar nada.</li>
   <ul>
