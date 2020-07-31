@@ -1,4 +1,4 @@
-# Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
+<h1># Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura<h1>
 
 <h2>Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
@@ -29,7 +29,13 @@
           <li>Celular: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en">My Maps para Android</a></li>
           <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada)</li>
       </ul>
-      <li><b>Mobile Topographer:</b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
+      <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
+ </ul>
+ 
+ <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
+  <ul>
+      <li><b>My Maps:</b> </li>
+      <li><b>Mobile Topographer: </b> </li>
  </ul>
   
    
