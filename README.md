@@ -24,12 +24,14 @@
   <ul>
     <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
     <li>Computadora: https://zoom.us/signup </li>
-  <ul>
+  </ul>
+ <ul>
   <li>My Maps:</li>
   <ul>
     <li>Celular: https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en</li>
     <li>Computadora: http://mymaps.google.com/ (Link de acceso, no hay que descargar nada.)</li>
   </ul>
+   <ul>
   <li>Mobile Topographer: https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en </li>
   
    
