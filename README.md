@@ -27,7 +27,7 @@
       <li>My Maps:</li>
       <ul>
           <li>Celular: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en">My Maps para Android</a></li>
-          <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada.)</li>
+          <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada)</li>
       </ul>
       <li>Mobile Topographer: <a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a> </li>
  </ul>
