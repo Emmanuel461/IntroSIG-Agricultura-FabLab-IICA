@@ -40,5 +40,5 @@
   
  
  <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="~/Documents/IICA/Capacitación_CECI/Manuales/Manual My Maps.pdf">example</a>.</p>
+    <p>Open a PDF file <a href="/Users/anamariaarayacastro/Documents/IICA/Capacitación_CECI/Manuales/Manual_MyMaps.pdf">example</a>.</p>
  
