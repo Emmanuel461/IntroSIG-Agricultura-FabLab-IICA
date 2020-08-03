@@ -33,7 +33,8 @@
     <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.
    </ul>
    </li>
-  </ul>  
+  </ul>
+  </li>
  
 <h4>Sesión 2</h4>
 <ul>
