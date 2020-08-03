@@ -23,15 +23,16 @@
  <ul>
   <li>Presentación y revisión del taller.</li>
   <li><b>Lección 1: Introducción teórica.</b></li>
-  <li>Temas:</li>
+  <li>Temas:
   <ul>
     <li> Sistemas de información Geográfica (SIG).</li>
     <li>Sistemas de Coordenadas y Proyecciones.</li>
     <li>Archivos Vectoriales y Ráster, y sus formatos comunes.</li>
     <li>Topología de los elementos vectoriales.</li>
     <li>Software Licenciados y Libres.</li>
-    <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.</li>
+    <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.
    </ul>
+   </li>
   </ul>  
  
 <h4>Sesión 2</h4>
