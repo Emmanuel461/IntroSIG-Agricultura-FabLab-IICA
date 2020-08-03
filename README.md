@@ -34,7 +34,7 @@
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
-      <li><b>My Maps:</b> <p><a href="/Users/anamariaarayacastro/Documents/IICA/Capacitación_CECI/Manuales/Manual_MyMaps.pdf">Manual My Maps</a>.</p> </li>
+      <li><b>My Maps:</b> <embed src="https://github.com/anaaraya/IntroSIG-Agricultura-FabLab-IICA/blob/master/Manual_MyMaps.pdf" type="application/pdf" /> </li>
       <li><b>Mobile Topographer: </b> </li>
  </ul>
   
