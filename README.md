@@ -34,15 +34,11 @@
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
-      <li><b>My Maps:</b> </li>
+      <li><b>My Maps:</b> <p><a href="~/Documents/IICA/Capacitación_CECI/Manuales/Manual My Maps.pdf">Manual My Maps</a>.</p> </li>
       <li><b>Mobile Topographer: </b> </li>
  </ul>
   
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
-  </body>
-   
+ 
+ <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="~/Documents/IICA/Capacitación_CECI/Manuales/Manual My Maps.pdf">example</a>.</p>
+ 
