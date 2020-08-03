@@ -8,7 +8,7 @@
 <li><a href="README.md#Seccion3">¿En qué va a consistir el taller?</a></li>
 <li><a href="README.md#Seccion4">Links para descargar aplicaciones</a></li>
 <li><a href="README.md#Seccion5">Manuales </a></li>
-<li><a href="README.md#Seccion6">Presentaciones</a></li>
+<li><a href="#Seccion6">Presentaciones</a></li>
 </ul>
 
 <h3 id="Seccion1">¿Qué se espera del taller?</h3>
