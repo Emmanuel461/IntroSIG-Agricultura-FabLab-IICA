@@ -65,22 +65,22 @@
    </ul>
  </ul>
 </ul>
-
+</ul>
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
  <ul>
-      <li><b>Zoom:</b></li>
-      <ul>
-          <li>Celular: <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en">Zoom para Android</a></li>
-          <li>Computadora: <a href="https://zoom.us/signup">Zoom para PC</a></li>
-      </ul>
-      <li><b>My Maps:</b></li>
-      <ul>
-          <li>Celular: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en">My Maps para Android</a></li>
-          <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada)</li>
-      </ul>
-      <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
-</ul>
+ <li><b>Zoom:</b></li>
+ <ul>
+  <li>Celular: <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en">Zoom para Android</a></li>
+  <li>Computadora: <a href="https://zoom.us/signup">Zoom para PC</a></li>
+  </ul>
+ <li><b>My Maps:</b></li>
+ <ul>
+  <li>Celular: <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.m4b&hl=en">My Maps para Android</a></li>
+  <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada)</li>
+  </ul>
+ <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
+ </ul>
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
