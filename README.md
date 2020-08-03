@@ -2,12 +2,13 @@
 
 <h2 style="text-align:center;">Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
-<a href="README.md#Seccion1">¿Qué se espera del taller?</a>
-<a href="README.md#Seccion2">¿Qué necesita?</a>
-<a href="README.md#Seccion3">¿En qué va a consistir el taller?</a>
-<a href="README.md#Seccion4">Links para descargar aplicaciones</a>
-<a href="README.md#Seccion5">Manuales </a>
-<a href="README.md#Seccion6">Presentaciones</a>
+<ul>
+ <li><a href="README.md#Seccion1">¿Qué se espera del taller?</a></li>
+<li><a href="README.md#Seccion2">¿Qué necesita?</a></li>
+<li><a href="README.md#Seccion3">¿En qué va a consistir el taller?</a></li>
+<li><a href="README.md#Seccion4">Links para descargar aplicaciones</a></li>
+<li><a href="README.md#Seccion5">Manuales </a></li>
+<li><a href="README.md#Seccion6">Presentaciones</a></li>
 
 
 <h3 id="Seccion1">¿Qué se espera del taller?</h3>
