@@ -87,12 +87,12 @@
  <h3>Las Presentaciones:</h3>
  <ul> 
  <li>Introducción al curso: </li>
- <li>Lección 1 </li>
- <li>Lección 2 </li>
- <li>Lección 3 </li>
- <li>Lección 4 </li>
- <li>Mobile Topographer</li>
- <li>My Maps</li>
+ <li>Lección 1: Introducción Teórica a los SIG</li>
+ <li>Lección 2: Aplicaciones de los SIG en la Agricultura.</li>
+ <li>Lección 3: Mobile Topographer </li>
+ <li>Lección 4: My Maps</li>
+ </ul>
+
  
   
  
