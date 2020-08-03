@@ -31,9 +31,21 @@
     <li>Topología de los elementos vectoriales.</li>
     <li>Software Licenciados y Libres.</li>
     <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.</li>
-   
+   </ul>
+  </ul>  
  <li><h4>Sesión 2</h4></li>
- <li><h4>Sesión 3</h4></li>
+ <u>
+  <li><b>Lección 1: Aplicaciones de los SIG en la Agricultura.</b></li>
+  <li>Temas:</li>
+  <u>
+   <li>Agricultura de Precisión.
+   <li>Imágenes satelitales y drones.
+   <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo.</a>.</li>  
+   <li>Video opcional - <a href="https://www.youtube.com/watch?v=YX28N-mZZo8&t=147s">Documental La granja del futuro - Drones, robots y esperma optimizado</a>.</li>
+   </u>
+  <li></b>Lección 2: Exploración de la plataforma Mobile Topograher.</b></li>
+  </u>
+<li><h4>Sesión 3</h4></li>
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
  <ul>
