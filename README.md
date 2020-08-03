@@ -40,12 +40,27 @@
   <ul>
    <li>Agricultura de Precisión.
    <li>Imágenes satelitales y drones.
-   <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo.</a>.</li>  
+   <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo</a>.</li>  
    <li>Video opcional - <a href="https://www.youtube.com/watch?v=YX28N-mZZo8&t=147s">Documental La granja del futuro - Drones, robots y esperma optimizado</a>.</li>
    </ul>
   <li><b>Lección 2: Exploración de la plataforma Mobile Topograher.</b></li>
   </ul>
 <li><h4>Sesión 3</h4></li>
+<ul>
+ <li><b>Lección 1: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
+ <ul>
+  <li>Temas:</li>
+  <ul>
+   <li>Crear puntos, líneas y polígonos.</li>
+   <li>Cargar información desde diferentes fuentes y su visualización en el visor.</li>
+   <li>Editar la tabla de atributos e información agregada al mapa.</li>
+   <li>Agregar más información a los atributos.</li>
+   <li>Cambiar mapas base.</li>
+   <li>Compartir y exportar el mapa.</li>
+  </ul>
+ </ul>
+ </ul>
+
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
  <ul>
