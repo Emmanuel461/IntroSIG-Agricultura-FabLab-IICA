@@ -60,7 +60,7 @@
   </ul>
  </ul>
  </ul>
- </ul>
+</ul>
 
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
@@ -76,13 +76,13 @@
           <li>Computadora: <a href="http://mymaps.google.com/" >My Maps para Google Chrome</a> (Link de acceso, no hay que descargar nada)</li>
       </ul>
       <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
- </ul>
+</ul>
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
       <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/>
       <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/>
- </ul>
+</ul>
  
  <h3>Las Presentaciones:</h3>
  <ul> 
