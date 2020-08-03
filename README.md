@@ -80,8 +80,8 @@
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
-      <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/></li>
-      <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/></li>
+      <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/>
+      <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/>
  </ul>
  
  <h3>Las Presentaciones:</h3>
