@@ -34,7 +34,7 @@
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
-      <li><b>My Maps:</b><a href="Manual_MyMaps.pdf" type="application/pdf"<a/></li>
+      <li><b>My Maps:</b><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/></li>
       <li><b>Mobile Topographer: </b> </li>
  </ul>
   
