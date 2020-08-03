@@ -95,8 +95,8 @@
 
  <h3 id="Seccion5">Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
  <ul>
- <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps</a> </li>
- <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer</a> </li>
+ <li><a href="ManualMy Maps.pdf" type="application/pdf">Manual My Maps</a> </li>
+ <li><a href="ManualMobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer</a> </li>
  </ul>
  
  <h3 id="Seccion6">Las Presentaciones:</h3>
@@ -104,7 +104,7 @@
  <li>Presentación 1: <a href="IntroalTaller.pdf" type="application/pdf">Introducción al Taller</a> </li>
  <li>Presentación 2: <a href="IntroduccionSIG.pdf" type="application/pdf">Introducción a los SIG</a> </li>
  <li>Presentación 3: <a href="AppSIGAgricultura.pdf" type="application/pdf">Aplicaciones de los SIG a la Agricultura</a> </li>
- <li>Presentación 4: <a href=".pdf" type="application/pdf">App Mobile Topographer</a> </li>
+ <li>Presentación 4: <a href="MobileTopographer.pdf" type="application/pdf">App Mobile Topographer</a> </li>
  <li>Presentación 5: <a href="My Maps.pdf" type="application/pdf">App My Maps</a> </li>
  </ul>
  
