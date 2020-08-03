@@ -47,6 +47,7 @@
   <ul>
   <li><b>Lección 3: Exploración de la plataforma Mobile Topograher.</b></li>
   </ul>
+ </ul>
  
   
 <li><h4>Sesión 3</h4></li>
