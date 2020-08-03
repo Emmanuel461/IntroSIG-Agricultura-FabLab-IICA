@@ -80,17 +80,17 @@
  
  <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
   <ul>
-      <li><b><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/></b></li>
-      <li><b><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/></b></li>
+      <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/></li>
+      <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/></li>
  </ul>
  
  <h3>Las Presentaciones:</h3>
  <ul> 
- <li>Introducción al curso: </li>
- <li>Lección 1: Introducción Teórica a los SIG</li>
- <li>Lección 2: Aplicaciones de los SIG en la Agricultura.</li>
- <li>Lección 3: Mobile Topographer </li>
- <li>Lección 4: My Maps</li>
+ <li><a href="IntroalTaller.pdf" type="application/pdf">Introducción al curso<a/></li>
+ <li><a href="IntroduccionSIG.pdf" type="application/pdf">Lección 1: Introducción Teórica a los SIG<a/></li>
+ <li><a href="AppSIGAgricultura.pdf" type="application/pdf">Lección 2: Aplicaciones de los SIG en la Agricultura<a/></li>
+ <li><a href=".pdf" type="application/pdf">Lección 3: Mobile Topographer<a/></li>
+ <li><a href="MyMaps.pdf" type="application/pdf">Lección 4: My Maps<a/></li>
  </ul>
 
  
