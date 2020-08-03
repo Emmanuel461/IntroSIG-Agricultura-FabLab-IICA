@@ -43,7 +43,7 @@
    <li>Imágenes satelitales y drones.
    <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo</a>.</li>  
    <li>Video opcional - <a href="https://www.youtube.com/watch?v=YX28N-mZZo8&t=147s">Documental La granja del futuro - Drones, robots y esperma optimizado</a>.</li>
-   </ul>
+  <ul>
   <li><b>Lección 3: Exploración de la plataforma Mobile Topograher.</b></li>
  </ul>
  
