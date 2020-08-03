@@ -1,5 +1,3 @@
-#Taller Introductorio de Sistemas de Infomración Geográfica para la Agricultura
- 
 <h2>Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
 <h3>¿Qué se espera del taller?</h3>
