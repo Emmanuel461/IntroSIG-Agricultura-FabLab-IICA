@@ -105,6 +105,6 @@
  <li>Presentación 2: <a href="IntroducciónSIG.pdf" type="application/pdf">Introducción a los SIG</a> </li>
  <li>Presentación 3: <a href="AppSIGAgricultura.pdf" type="application/pdf">Aplicaciones de los SIG a la Agricultura</a> </li>
  <li>Presentación 4: <a href=".pdf" type="application/pdf">App Mobile Topographer</a> </li>
- <li>Presentación 5: <a href="MyMaps.pdf" type="application/pdf">App My Maps</a> </li>
+ <li>Presentación 5: <a href="My Maps.pdf" type="application/pdf">App My Maps</a> </li>
  </ul>
  
