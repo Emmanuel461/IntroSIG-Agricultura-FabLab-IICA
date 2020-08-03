@@ -83,14 +83,7 @@
   </li>
  <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
  </ul>
- 
- <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
-  <ul>
-  <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/> </li>
-  <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/> </li>
-  </ul>
- 
- 
+
  <h3>Las Presentaciones:</h3>
  <ul> 
  <li>Presentación 1: </li>
@@ -99,3 +92,12 @@
  <li>Presentación 4: </li>
  <li>Presentación 5: </li>
  </ul>
+ 
+  
+ <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
+  <ul>
+  <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/> </li>
+  <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/> </li>
+  </ul>
+ 
+ 
