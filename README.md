@@ -33,6 +33,7 @@
     <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.</li>
    </ul>
   </ul>  
+ 
  <li><h4>Sesión 2</h4></li>
  <ul>
   <li><b>Lección 2: Aplicaciones de los SIG en la Agricultura.</b></li>
@@ -43,22 +44,25 @@
    <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo</a>.</li>  
    <li>Video opcional - <a href="https://www.youtube.com/watch?v=YX28N-mZZo8&t=147s">Documental La granja del futuro - Drones, robots y esperma optimizado</a>.</li>
    </ul>
+  <ul>
   <li><b>Lección 3: Exploración de la plataforma Mobile Topograher.</b></li>
   </ul>
-<li><h4>Sesión 3</h4></li>
-<ul>
- <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
+ 
+  
+ <li><h4>Sesión 3</h4></li>
  <ul>
-  <li>Temas:</li>
+  <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
   <ul>
-   <li>Crear puntos, líneas y polígonos.</li>
-   <li>Cargar información desde diferentes fuentes y su visualización en el visor.</li>
-   <li>Editar la tabla de atributos e información agregada al mapa.</li>
-   <li>Agregar más información a los atributos.</li>
-   <li>Cambiar mapas base.</li>
-   <li>Compartir y exportar el mapa.</li>
+   <li>Temas:</li>
+   <ul>
+    <li>Crear puntos, líneas y polígonos.</li>
+    <li>Cargar información desde diferentes fuentes y su visualización en el visor.</li>
+    <li>Editar la tabla de atributos e información agregada al mapa.</li>
+    <li>Agregar más información a los atributos.</li>
+    <li>Cambiar mapas base.</li>
+    <li>Compartir y exportar el mapa.</li>
+    </ul>
   </ul>
- </ul>
  </ul>
 </ul>
 
