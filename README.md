@@ -93,15 +93,15 @@
  
  <h3>Las Presentaciones:</h3>
  <ul> 
- <li>Presentación 1: <a href="IntroalTaller.pdf" type="application/pdf">Introducción al curso<a/> </li>
- <li>Presentación 2: <a href="IntroduccionSIG.pdf" type="application/pdf">Lección 1: Introducción Teórica a los SIG<a/> </li>
- <li>Presentación 3: <a href="AppSIGAgricultura.pdf" type="application/pdf">Lección 2: Aplicaciones de los SIG en la Agricultura<a/> </li>
- <li>Presentación 4: <a href=".pdf" type="application/pdf">Lección 3: Mobile Topographer<a/> </li>
- <li>Presentación 5: <a href="MyMaps.pdf" type="application/pdf">Lección 4: My Maps<a/> </li>
+ <li>Presentación 1: </li>
+ <li>Presentación 2: </li>
+ <li>Presentación 3: </li>
+ <li>Presentación 4: </li>
+ <li>Presentación 5: </li>
  </ul>
 
- 
-  
- 
-
- 
+ <a href="IntroalTaller.pdf" type="application/pdf">Introducción al curso<a/>
+ <a href="IntroduccionSIG.pdf" type="application/pdf">Lección 1: Introducción Teórica a los SIG<a/>  
+ <a href="AppSIGAgricultura.pdf" type="application/pdf">Lección 2: Aplicaciones de los SIG en la Agricultura<a/>
+ <a href=".pdf" type="application/pdf">Lección 3: Mobile Topographer<a/> 
+ <a href="MyMaps.pdf" type="application/pdf">Lección 4: My Maps<a/> 
