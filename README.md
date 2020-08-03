@@ -19,9 +19,9 @@
 
 <h3>¿En qué va a consistir el taller?</h3>
 <ul>
- <li><h2>Sesión 1</h2></li>
- <li><h2>Sesión 2</h2></li>
- <li><h2>Sesión 3</h2></li>
+ <li><h4>Sesión 1</h4></li>
+ <li><h4>Sesión 2</h4></li>
+ <li><h4>Sesión 3</h4></li>
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
  <ul>
