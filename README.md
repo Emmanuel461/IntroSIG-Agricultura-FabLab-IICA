@@ -49,20 +49,19 @@
   </ul>
  
   
- <li><h4>Sesión 3</h4></li>
+<li><h4>Sesión 3</h4></li>
+<ul>
+ <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
  <ul>
-  <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
+  <li>Temas:</li>
   <ul>
-   <li>Temas:</li>
-   <ul>
-    <li>Crear puntos, líneas y polígonos.</li>
-    <li>Cargar información desde diferentes fuentes y su visualización en el visor.</li>
-    <li>Editar la tabla de atributos e información agregada al mapa.</li>
-    <li>Agregar más información a los atributos.</li>
-    <li>Cambiar mapas base.</li>
-    <li>Compartir y exportar el mapa.</li>
-    </ul>
-  </ul>
+   <li>Crear puntos, líneas y polígonos.</li>
+   <li>Cargar información desde diferentes fuentes y su visualización en el visor.</li>
+   <li>Editar la tabla de atributos e información agregada al mapa.</li>
+   <li>Agregar más información a los atributos.</li>
+   <li>Cambiar mapas base.</li>
+   <li>Compartir y exportar el mapa.</li>
+   </ul>
  </ul>
 </ul>
 
