@@ -1,6 +1,6 @@
 <img src="Fab Lab+IICA_azul.png">
 
-<h2 style="text-align:center;">Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
+<h2 style="text-align:center;">Repositorio de documentos, archivos y vínculos relacionados con el Taller</h2>
 
 <ul>
  <li><a href="#Seccion1">¿Qué se espera del taller?</a></li>
