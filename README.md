@@ -91,7 +91,7 @@
  <li><a href="AppSIGAgricultura.pdf" type="application/pdf">Lección 2: Aplicaciones de los SIG en la Agricultura<a/>
  <li><a href=".pdf" type="application/pdf">Lección 3: Mobile Topographer<a/>
  <li><a href="MyMaps.pdf" type="application/pdf">Lección 4: My Maps<a/>
- </ul>
+</ul>
 
  
   
