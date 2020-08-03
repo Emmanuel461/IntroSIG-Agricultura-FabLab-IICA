@@ -48,7 +48,6 @@
  </ul>
 </ul>
  
-  
 <li><h4>Sesión 3</h4></li>
 <ul>
  <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
