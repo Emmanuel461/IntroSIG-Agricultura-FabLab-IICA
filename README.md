@@ -18,8 +18,8 @@
 </ul>
 
 <h3>¿En qué va a consistir el taller?</h3>
-<ul>
- <li><h4>Sesión 1</h4></li>
+
+ <h4>Sesión 1</h4>
  <ul>
   <li>Presentación y revisión del taller.</li>
   <li><b>Lección 1: Introducción teórica.</b></li>
@@ -34,7 +34,7 @@
    </ul>
   </ul>  
  
- <li><h4>Sesión 2</h4></li>
+ <h4>Sesión 2</h4>
  <ul>
   <li><b>Lección 2: Aplicaciones de los SIG en la Agricultura.</b></li>
   <li>Temas:</li>
@@ -48,7 +48,7 @@
  </ul>
 </ul>
  
-<li><h4>Sesión 3</h4></li>
+<h4>Sesión 3</h4>
 <ul>
  <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
  <ul>
