@@ -60,6 +60,7 @@
   </ul>
  </ul>
  </ul>
+ </ul>
 
 
 <h3>Acá están los vínculos para descargar las aplicaciones:</h3>
