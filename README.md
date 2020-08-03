@@ -30,7 +30,7 @@
     <li>Archivos Vectoriales y Ráster, y sus formatos comunes.</li>
     <li>Topología de los elementos vectoriales.</li>
     <li>Software Licenciados y Libres.</li>
-    <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a>.
+    <li>Video  - <a href="https://www.youtube.com/watch?v=u1eqEvVzagk&t=274s">¿Por qué los mapas mienten?</a></li>
    </ul>
    </li>
   </ul>
