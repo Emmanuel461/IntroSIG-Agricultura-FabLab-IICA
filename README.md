@@ -3,12 +3,18 @@
 <h2 style="text-align:center;">Repositorio de documentos, arcivos y vínculos relacionados con el Taller</h2>
 
 <a href="README.md#Seccion1">¿Qué se espera del taller?</a>
+<a href="README.md#Seccion2">¿Qué necesita?</a>
+<a href="README.md#Seccion3">¿En qué va a consistir el taller?</a>
+<a href="README.md#Seccion4">Links para descargar aplicaciones</a>
+<a href="README.md#Seccion5">Manuales </a>
+<a href="README.md#Seccion6">Presentaciones</a>
+
 
 <h3 id="Seccion1">¿Qué se espera del taller?</h3>
 
 <p>El taller busca que los participantes conozcan qué son y para qué sirven los Sistemas de Información Geográfica, y qué aplicaciones tienen los SIG en la agricultura. Así como también, que aprendan a utilizar herramientas básicas, gratuitas y en línea para colectar información georreferenciada y visualizarla en plataformas de SIG.</p> 
 
-<h3>¿Qué necesita?</h3>
+<h3 id="Seccion2">¿Qué necesita?</h3>
  <ul>
 <li>Una computadora con acceso a Internet y Navegador web Google Chrome.</li>
 <li>Instalado en la computadora un lector de archivos en formato .pdf.</li>
@@ -19,7 +25,7 @@
 <li>Tener instalado en el celular las aplicaciones MyMaps de Google, y la versión gratuita de Mobile Topographer.</li>
 </ul>
 
-<h3>¿En qué va a consistir el taller?</h3>
+<h3 id="Seccion3">¿En qué va a consistir el taller?</h3>
 
  <h4>Sesión 1</h4>
  <ul>
@@ -69,7 +75,7 @@
  </li>
 </ul>
 
-<h3>Acá están los vínculos para descargar las aplicaciones:</h3>
+<h3 id="Seccion4">Acá están los vínculos para descargar las aplicaciones:</h3>
  <ul>
  <li><b>Zoom:</b>
  <ul>
@@ -86,13 +92,13 @@
  <li><b>Mobile Topographer: </b><a href="https://play.google.com/store/apps/details?id=gr.stasta.mobiletopographer&hl=en">Mobile Topographer para Android</a></li>
  </ul>
 
- <h3>Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
+ <h3 id="Seccion5">Y acá, los manuales para aprender a utilizar las aplicaciones:</h3>
  <ul>
  <li><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps</a> </li>
  <li><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer</a> </li>
  </ul>
  
- <h3>Las Presentaciones:</h3>
+ <h3 id="Seccion6">Las Presentaciones:</h3>
  <ul> 
  <li>Presentación 1: <a href="IntroalTaller.pdf" type="application/pdf">Introducción al Taller</a> </li>
  <li>Presentación 2: <a href="IntroduccionSIG.pdf" type="application/pdf">Introducción a los SIG</a> </li>
