@@ -35,7 +35,7 @@
   </ul>  
  <li><h4>Sesión 2</h4></li>
  <ul>
-  <li><b>Lección 1: Aplicaciones de los SIG en la Agricultura.</b></li>
+  <li><b>Lección 2: Aplicaciones de los SIG en la Agricultura.</b></li>
   <li>Temas:</li>
   <ul>
    <li>Agricultura de Precisión.
@@ -43,11 +43,11 @@
    <li>Video - <a href="https://www.youtube.com/watch?v=bEgnfDlBi_Y&t=55s">Los nuevos robots y drones agrícolas simplificarán el trabajo en el campo</a>.</li>  
    <li>Video opcional - <a href="https://www.youtube.com/watch?v=YX28N-mZZo8&t=147s">Documental La granja del futuro - Drones, robots y esperma optimizado</a>.</li>
    </ul>
-  <li><b>Lección 2: Exploración de la plataforma Mobile Topograher.</b></li>
+  <li><b>Lección 3: Exploración de la plataforma Mobile Topograher.</b></li>
   </ul>
 <li><h4>Sesión 3</h4></li>
 <ul>
- <li><b>Lección 1: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
+ <li><b>Lección 4: ¿Cómo hacer un mapa con My Maps? Versión web y celular.</b></li>
  <ul>
   <li>Temas:</li>
   <ul>
@@ -83,6 +83,17 @@
       <li><b><a href="Manual_MyMaps.pdf" type="application/pdf">Manual My Maps<a/></b></li>
       <li><b><a href="Manual Mobile Topographer.pdf" type="application/pdf">Manual Mobile Topographer<a/></b></li>
  </ul>
+ 
+ <h3>Las Presentaciones:</h3>
+ <ul> 
+ <li>Introducción al curso: </li>
+ <li>Lección 1 </li>
+ <li>Lección 2 </li>
+ <li>Lección 3 </li>
+ <li>Lección 4 </li>
+ <li>Mobile Topographer</li>
+ <li>My Maps</li>
+ 
   
  
 
