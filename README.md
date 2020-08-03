@@ -46,7 +46,6 @@
    </ul>
   <ul>
   <li><b>Lección 3: Exploración de la plataforma Mobile Topograher.</b></li>
-  </ul>
  </ul>
  
   
@@ -62,7 +61,6 @@
    <li>Agregar más información a los atributos.</li>
    <li>Cambiar mapas base.</li>
    <li>Compartir y exportar el mapa.</li>
-   </ul>
  </ul>
 </ul>
 </ul>
