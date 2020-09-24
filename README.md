@@ -109,4 +109,4 @@
  </ul>
  
  <iframe width='853' height='480' 
- src="https://my.matterport.com/show/?m=fyAx4FPgoeB&brand=0"></iframe>
+ src="https://my.matterport.com/show/?m=fyAx4FPgoeB&brand=0" > </iframe>
